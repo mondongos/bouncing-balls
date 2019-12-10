@@ -5,7 +5,8 @@ Whenever the user clicks on the page, a circle is 'fired' from the clicked posit
 - React 
 
 ## How to use
-1. Clone this repo
-2. Run `npm install` to install necessary dependencies
-3. Run `npm start` to start local server
+1. Clone this repo.
+2. Run `npm install` to install necessary dependencies.
+3. Run `npm start` to start local server.
 4. Enjoy the bouncing balls. 
+
